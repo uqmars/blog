@@ -11,7 +11,7 @@ This year challenged participants to address the theme of 'Innovations in Educat
 
 {% include figure.html img_path="/assets/images/2024/MH-6.jpg" alt_txt="" caption="Group photos of all participating teams" %}
 
-The weekend opened as it tends to with tickets check-ins and participant setup, allowing those in attendance to connect and make some early headway on forming teams. This was followed by a migration over to the opening ceremony where the contestants were briefed on how the weekend would operate.
+The weekend opened as it tends to with ticket check-ins and participant setup, allowing those in attendance to connect and make some early headway on forming teams. This was followed by a migration over to the opening ceremony where the contestants were briefed on how the weekend would operate.
 
 Following the opening ceremony and the subsequent dinner offering, participants got underway brainstorming and prototyping their early ideas. This was enhanced by this year's event sponsors, [Espressif Systems](https://www.espressif.com/), [Micromelon Robotics](https://www.micromelon.com.au/), and [MakerHero](https://makerhero.com.au/).
 
@@ -26,7 +26,7 @@ Following the opening ceremony and the subsequent dinner offering, participants 
     </figcaption>
 </figure>
 
-The Saturday's schedule was entirely up to the teams to develop as they pleased, with the optional workshops on microcontroller programming, electronic skills, and CAD running as per past years to help build up those who newer to working with mechatronic systems.
+The Saturday's schedule was entirely up to the teams to develop as they pleased, with the optional workshops on microcontroller programming, electronic skills, and CAD running as per past years to help build up those newer to working with mechatronic systems.
 
 The Sunday saw the final polishing of ideas, with teams racing to implement any final ideas and embed them into their presentation prior to the submission deadline. Teams were also provided with a final workshop on pitching and presenting, featuring the return of [Simeon Gover](https://www.linkedin.com/in/simeongover/) who helped introduce the workshop in 2023.
 

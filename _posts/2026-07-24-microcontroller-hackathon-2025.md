@@ -6,7 +6,7 @@ date:   2026-07-24 18:00:00 +1000
 categories: competitions hackathon
 tags: microhack microcontroller arduino hackathon 2025
 ---
-2025 introduced the event to a new location and setting while keeping the essentials change to Hackathon with it being hosted at QUT Garden’s Point. Students from UQ MARS and QUT Robotics were brought together under one roof to create a product within a 3 day time-frame. Sadly this was the first year since 2022 where Robogals were not involved, however they were lived on through their equipment donations that were used by the students.
+2025 brought MicroHack to a new location and setting while keeping the essentials unchanged, with it being hosted for the first time at QUT Garden’s Point. Students from UQ MARS and QUT Robotics were brought together under one roof to create a product within a 3 day time-frame. Sadly this was the first year since 2022 where Robogals were not involved, however they were lived on through their equipment donations that were used by the students.
 
 Keeping with tradition established in past years the weekend began with an opening ceremony where competitors were introduced to the this year’s theme being, Make it Better, when they were challenged to select a current existing solution and improve upon it in any which way they deemed fit. After the ceremony everyone was given time to socialise, network and discuss ideas to form teams and begin the early stages. 
 
