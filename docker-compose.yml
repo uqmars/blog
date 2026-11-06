@@ -1,0 +1,9 @@
+services:
+  blog:
+    build: .
+    image: mars-blog-dev
+    ports:
+      - "4000:4000"
+    volumes:
+      # Live edits: the container serves the working tree, no rebuild needed.
+      - .:/srv/jekyll
